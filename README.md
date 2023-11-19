@@ -41,3 +41,8 @@ create module
 ```bash
   nest g module name
 ```
+
+endpoint
+```bash
+  localhost:3000/graphql
+```
