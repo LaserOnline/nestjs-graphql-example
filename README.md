@@ -1,3 +1,4 @@
+
 ## NestJs With GraphQL
 
 Installation
@@ -15,4 +16,24 @@ For Fastify and Mercurius
 For Fastify and Mercurius
 ```bash
   npm i @nestjs/graphql @nestjs/mercurius graphql mercurius
+```
+
+create resolver
+```bash
+  nest g resolver name
+```
+
+create guard
+```bash
+  nest g guard name
+```
+
+create service
+```bash
+  nest g service name
+```
+
+create module
+```bash
+  nest g module name
 ```
